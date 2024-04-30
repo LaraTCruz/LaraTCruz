@@ -2,7 +2,7 @@
 - 👀 I’m interested in be a web developer
 - 🌱 I’m currently studying ADS but I plan to study programming from scratch
 - 💞️ I’m looking to make friends to help me in that way
-- 📫 How to reach me: @_lara.cruzs_ on instagram
+- 📫 How to reach me: @_ lara.cruzs_ on instagram
 - 😄 Pronouns: she/her
 
 
