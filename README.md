@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Python Dev Web<br>🎲 Fun fact: I'm just a geek</p>
+<p align="left">📚 I'm currently learning 50 projects in 50 days - HTML, CSS & JavaScript<br>🎲 Fun fact: I'm just a geek</p>
 
 ###
 
