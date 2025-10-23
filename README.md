@@ -21,17 +21,15 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraTCruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api?username=LaraTCruz&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
-      <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=LaraTCruz&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraTCruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
-        width="65%"
       />
     </td>
   </tr>
