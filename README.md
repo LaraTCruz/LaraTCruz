@@ -31,6 +31,7 @@
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=LaraTCruz&theme=dark&hide_border=false"
         alt="Github Stats"
+        width="65%"
       />
     </td>
   </tr>
